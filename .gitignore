@@ -211,5 +211,20 @@ project.lock.json
 # Visual Studio Code
 .vscode/
 
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+
 # Output folder used by Webpack or other FE stuff
 **/node_modules/*
